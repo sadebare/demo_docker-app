@@ -68,3 +68,10 @@ Step 5: access the nodejs application from browser
     docker build -t my-app:1.0 .       
     
 The dot "." at the end of the command denotes location of the Dockerfile.
+
+##  Resulting images
+![Frontend UI](./Screenshot%202022-10-13%20at%2021.28.35.png)
+![Mongo-express UI](./Screenshot%202022-10-13%20at%2021.31.02.png)
+
+##  BONUS: Deployed the image on a private repository- Elastic Container Registry
+![ECR](./Screenshot%202022-10-13%20at%2021.34.57.png)
